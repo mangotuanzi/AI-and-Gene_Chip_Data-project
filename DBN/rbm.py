@@ -1,8 +1,4 @@
-"""
-Restricted Boltzmann Machines (RBM)
-author: Ye Hu
-2016/12/18
-"""
+
 import os
 import timeit
 import numpy as np
