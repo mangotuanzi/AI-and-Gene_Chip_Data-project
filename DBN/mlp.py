@@ -1,8 +1,4 @@
-"""
-Multi-Layer Perceptron Class
-author: Ye Hu
-2016/12/15
-"""
+
 import numpy as np
 import tensorflow as tf
 import input_data
