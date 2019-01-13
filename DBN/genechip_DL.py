@@ -1,8 +1,4 @@
-"""
-Deep Belief Network
-author: Ye Hu
-2016/12/20
-"""
+
 import timeit
 import numpy as np
 import tensorflow as tf
@@ -246,7 +242,7 @@ if __name__ == "__main__":
 
     dbn = DBN(n_in=1895, n_out=2, hidden_layers_sizes=[200, 200, 200])
     sess = tf.Session()
-    with tf.device("/gpu:0"):
+    with tf.device("/pu:0"):
         init = tf.global_variables_initializer()
         sess.run(init)
         # set random_seed
