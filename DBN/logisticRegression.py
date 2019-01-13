@@ -1,8 +1,4 @@
-"""
-Logistic Regression
-author: Ye Hu
-2016/12/14  update 2017/02/16
-"""
+
 import numpy as np
 import tensorflow as tf
 import input_data
