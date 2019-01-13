@@ -1,0 +1,68 @@
+0.0013997201
+0.0013997201
+0.0013997201
+0.0013997201
+0.0013997201
+0.0013997201
+0.0013997201
+0.0013997201
+0.0013997201
+0.0013997201
+
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+
+batch_num; 100
+                Pretraing layer 0 Epoch 0 cost: nan
+	Pretraing layer 0 Epoch 1 cost: nan
+	Pretraing layer 0 Epoch 2 cost: nan
+	Pretraing layer 0 Epoch 3 cost: nan
+	Pretraing layer 0 Epoch 4 cost: nan
+	Pretraing layer 0 Epoch 5 cost: nan
+	Pretraing layer 0 Epoch 6 cost: nan
+	Pretraing layer 0 Epoch 7 cost: nan
+	Pretraing layer 0 Epoch 8 cost: nan
+	Pretraing layer 0 Epoch 9 cost: nan
+	Pretraing layer 1 Epoch 0 cost: nan
+	Pretraing layer 1 Epoch 1 cost: nan
+	Pretraing layer 1 Epoch 2 cost: nan
+	Pretraing layer 1 Epoch 3 cost: nan
+	Pretraing layer 1 Epoch 4 cost: nan
+	Pretraing layer 1 Epoch 5 cost: nan
+	Pretraing layer 1 Epoch 6 cost: nan
+	Pretraing layer 1 Epoch 7 cost: nan
+	Pretraing layer 1 Epoch 8 cost: nan
+	Pretraing layer 1 Epoch 9 cost: nan
+	Pretraing layer 2 Epoch 0 cost: nan
+	Pretraing layer 2 Epoch 1 cost: nan
+	Pretraing layer 2 Epoch 2 cost: nan
+	Pretraing layer 2 Epoch 3 cost: nan
+	Pretraing layer 2 Epoch 4 cost: nan
+	Pretraing layer 2 Epoch 5 cost: nan
+	Pretraing layer 2 Epoch 6 cost: nan
+	Pretraing layer 2 Epoch 7 cost: nan
+	Pretraing layer 2 Epoch 8 cost: nan
+	Pretraing layer 2 Epoch 9 cost: nan
+
+The pretraining process ran for 41.28824767453039 minutes
+
+Start finetuning...
+
+	Epoch 0 cost: nan, validation accuacy: 0.001399720087647438
+	Epoch 1 cost: nan, validation accuacy: 0.001399720087647438
+	Epoch 2 cost: nan, validation accuacy: 0.001399720087647438
+	Epoch 3 cost: nan, validation accuacy: 0.001399720087647438
+	Epoch 4 cost: nan, validation accuacy: 0.001399720087647438
+	Epoch 5 cost: nan, validation accuacy: 0.001399720087647438
+	Epoch 6 cost: nan, validation accuacy: 0.001399720087647438
+	Epoch 7 cost: nan, validation accuacy: 0.001399720087647438
+	Epoch 8 cost: nan, validation accuacy: 0.001399720087647438
+	Epoch 9 cost: nan, validation accuacy: 0.001399720087647438

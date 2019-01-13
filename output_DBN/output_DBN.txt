@@ -1,0 +1,72 @@
+0.8404075
+0.8404075
+0.8404075
+0.8404075
+0.8404075
+0.8404075
+0.8404075
+0.8404075
+0.8404075
+0.8404075
+
+0.5153533670137513
+0.5119552061242877
+0.5115297307383339
+0.5113382935523987
+0.5112281801565639
+0.5111563734288487
+0.5111057291615684
+0.5110680623999181
+0.5110389399078659
+0.5110157210871858
+
+
+
+batch_num; 117
+	Pretraing layer 0 Epoch 0 cost: 12971.934945913457
+	Pretraing layer 0 Epoch 1 cost: 12363.29661625267
+	Pretraing layer 0 Epoch 2 cost: 12350.443718282591
+	Pretraing layer 0 Epoch 3 cost: 12349.708450186969
+	Pretraing layer 0 Epoch 4 cost: 12349.644756610582
+	Pretraing layer 0 Epoch 5 cost: 12349.619374332262
+	Pretraing layer 0 Epoch 6 cost: 12349.591271033649
+	Pretraing layer 0 Epoch 7 cost: 12349.61063534989
+	Pretraing layer 0 Epoch 8 cost: 12349.6169120593
+	Pretraing layer 0 Epoch 9 cost: 12349.578826121797
+	Pretraing layer 1 Epoch 0 cost: 0.39948503708100724
+	Pretraing layer 1 Epoch 1 cost: 0.025466622227532223
+	Pretraing layer 1 Epoch 2 cost: 0.013498197540513467
+	Pretraing layer 1 Epoch 3 cost: 0.009220715214171978
+	Pretraing layer 1 Epoch 4 cost: 0.007062323805358673
+	Pretraing layer 1 Epoch 5 cost: 0.005665932097432451
+	Pretraing layer 1 Epoch 6 cost: 0.004600630647256078
+	Pretraing layer 1 Epoch 7 cost: 0.003929998685852585
+	Pretraing layer 1 Epoch 8 cost: 0.0034565839908507648
+	Pretraing layer 1 Epoch 9 cost: 0.003080135466069238
+	Pretraing layer 2 Epoch 0 cost: 138.5639019827558
+	Pretraing layer 2 Epoch 1 cost: 137.58656037159457
+	Pretraing layer 2 Epoch 2 cost: 137.63092288807923
+	Pretraing layer 2 Epoch 3 cost: 137.69089997120398
+	Pretraing layer 2 Epoch 4 cost: 137.7367239405966
+	Pretraing layer 2 Epoch 5 cost: 137.72634105193308
+	Pretraing layer 2 Epoch 6 cost: 137.7357648539747
+	Pretraing layer 2 Epoch 7 cost: 137.70948217669107
+	Pretraing layer 2 Epoch 8 cost: 137.63097531571347
+	Pretraing layer 2 Epoch 9 cost: 137.6718258327908
+
+The pretraining process ran for 53.57378262356092 minutes
+
+Start finetuning...
+
+	Epoch 0 cost: 0.5153533670137513, validation accuacy: 0.8404074907302856
+	Epoch 1 cost: 0.5119552061242877, validation accuacy: 0.8404074907302856
+	Epoch 2 cost: 0.5115297307383339, validation accuacy: 0.8404074907302856
+	Epoch 3 cost: 0.5113382935523987, validation accuacy: 0.8404074907302856
+	Epoch 4 cost: 0.5112281801565639, validation accuacy: 0.8404074907302856
+	Epoch 5 cost: 0.5111563734288487, validation accuacy: 0.8404074907302856
+	Epoch 6 cost: 0.5111057291615684, validation accuacy: 0.8404074907302856
+	Epoch 7 cost: 0.5110680623999181, validation accuacy: 0.8404074907302856
+	Epoch 8 cost: 0.5110389399078659, validation accuacy: 0.8404074907302856
+	Epoch 9 cost: 0.5110157210871858, validation accuacy: 0.8404074907302856
+
+The finetuning process ran for 15.858433855742662 minutes
